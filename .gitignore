@@ -1,14 +1,6 @@
-# .gitignore
+# Ignore Python virtual environments
 venv/
+venv*/
+.venv/
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
-*.dll
-*.so
-*.dylib
-*.egg
-*.egg-info/
-dist/
-build/
-*.log
